@@ -121,3 +121,43 @@ bring them here and **slaughter** them before me.’
 
 [Luke 19:27 (ESV)](# "ref")
 
+>>>
+Luke: kingdom of God (is not what you think it is)
+ch18-19: Jesus' final journey to Jerusalem, triumphal entry
+
+18:8 God certainly hears the cry of the oppressed: but when He comes, will He find faith?
+18:17 kingdom of God belongs to those who **humble** themselves like a child: e.g.,
+18:13 tax collector's prayer
+18:39 blind beggar who cried out all the more
+19:10 Zacchaeus: the lost whom Christ seeks+saves
+
+Mt24:4-14 end of the age: wars, famine, false prophets, persecution
+caught unawares:
+24:37 as in the days of Noah
+24:50 as wicked steward
+25:8 as unprepared wedding guests
+
+[find photo of mina coin]
+mina = 100 days' wages: ~$15-20k
+cf Mt25 talent = 60 minas
+so not a ton of money: purpose is to demonstrate **faithfulness** w/investment
+
+1. good servants
+faithful in littlest
+reward is 10 **cities**: the mina pales in comparison
+look what your mina has produced: God enables, but we invest it, to the glory of God
+
+appl: money/job: integrity, pursuing justice
+appl: providing for those in our care: Mt24:45-46 gives food at proper time
+appl: cultivating mercy: Mt25:37-40 hunger, stranger, naked, sick, prison
+
+2. wicked servant
+look, here's your mina (not what it has produced)
+all of them **return** mina to master
+1st servant keeps 10 minas earned
+not how much God has blessed us with, but what we do with it
+
+3. enemies
+seems harsh?
+Christ will return as conquering king
+
