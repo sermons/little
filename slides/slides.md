@@ -1,15 +1,43 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# Faithful in the Littlest
+# Faithful in <br> the Littlest
 ## Luke 19:11-27
 
 >>>
++ overwhelmed by trouble, despairing at world, 
+  + indignant that things are not right
++ expect that God will rescue:
+  + coming of the kingdom of God
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Have I **misunderstood** the coming of the kingdom of God?
 
 >>>
++ Luke: kingdom of God (is not what you think it is)
 + Behold the Lamb of God
+
+---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+And will not God bring about <br/>
+**justice** for his **chosen ones**, <br/>
+who cry out to him day and night? <br/>
+Will he keep **putting them off**?
+
+[Luke 18:7 (NIV) (p.1/2)](# "ref")
+
+>>>
++ persistent widow
+
+---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+
+I tell you, he will see that <br/>
+they get **justice**, and **quickly**.
+
+However, when the **Son of Man** comes, <br/>
+will he find **faith** on the earth?
+
+[Luke 18:8 (NIV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -68,12 +96,13 @@ And he said to him, <br>
 [Luke 19:18-19 (ESV)](# "ref")
 
 ---
-Then another came, saying, ‘Lord, **here is** your mina, <br>
+Then another came, saying, <br>
+‘Lord, **here is** your mina, <br>
 which I kept laid away in a **handkerchief**; 
 
 for I was **afraid** of you, <br>
-because you are a **severe** man. 
-You **take** what you did not deposit, 
+because you are a **severe** man. <br>
+You **take** what you did not deposit, <br>
 and **reap** what you did not sow.’ 
 
 [Luke 19:20-21 (ESV)](# "ref")
@@ -122,7 +151,6 @@ bring them here and **slaughter** them before me.’
 [Luke 19:27 (ESV)](# "ref")
 
 >>>
-Luke: kingdom of God (is not what you think it is)
 ch18-19: Jesus' final journey to Jerusalem, triumphal entry
 
 18:8 God certainly hears the cry of the oppressed: but when He comes, will He find faith?
@@ -146,18 +174,31 @@ so not a ton of money: purpose is to demonstrate **faithfulness** w/investment
 faithful in littlest
 reward is 10 **cities**: the mina pales in comparison
 look what your mina has produced: God enables, but we invest it, to the glory of God
+saved by faith: but faith lived out in obedience
 
 appl: money/job: integrity, pursuing justice
 appl: providing for those in our care: Mt24:45-46 gives food at proper time
 appl: cultivating mercy: Mt25:37-40 hunger, stranger, naked, sick, prison
+
+Q: in what do I need to be more faithful?
 
 2. wicked servant
 look, here's your mina (not what it has produced)
 all of them **return** mina to master
 1st servant keeps 10 minas earned
 not how much God has blessed us with, but what we do with it
+austere: unreasonable in demands
+but master is not: not asking for something from nothing, but invested initial mina
+  would have been ok with basic interest
+risk-averse: afraid would lose mina due to forces beyond his control
+  but master not concerned about money (only 1 mina), 
+  wanted to see what servant would do with it
+
+Q: have I felt God to be austere or unreasonable?
 
 3. enemies
 seems harsh?
 Christ will return as conquering king
+
+Q: am I unwilling for God to rule over me?
 
