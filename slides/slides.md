@@ -68,6 +68,8 @@ will he find **faith** on the earth?
 1. The Enemies of the King [(v14,27)](# "ref")
 
 >>>
++ Key to **understanding** this parable is in v11:
+  + Jesus going through **Jericho** and near
 
 ---
 because he was near to **Jerusalem**, <br>
@@ -77,7 +79,8 @@ the **kingdom of God** was to appear **immediately**.
 [Luke 19:11 (ESV)](# "ref")
 
 >>>
-Mt24:4-14 end of the age: wars, famine, false prophets, persecution
++ Israelites of that era living under corrupt oppression
++ Mt24:4-14 end of the age: wars, famine, false prophets, persecution
 caught unawares:
 24:37 as in the days of Noah
 24:50 as wicked steward
@@ -90,10 +93,10 @@ he gave them ten **minas** <br>
 [Luke 19:13 (ESV)](# "ref")
 
 >>>
-[find photo of mina coin]
-mina = 100 days' wages: ~$15-20k
-cf Mt25 talent = 60 minas
-so not a ton of money: purpose is to demonstrate **faithfulness** w/investment
++ [find photo of mina coin]
++ mina = 100 days' wages: ~$15-20k
+  + cf Mt25 talent = 60 minas
++ so not a ton of money: purpose is to demonstrate **faithfulness** w/investment
 
 ---
 ‘Engage in **business** until I come.’
@@ -207,6 +210,9 @@ but master is not: not asking for something from nothing, but invested initial m
 risk-averse: afraid would lose mina due to forces beyond his control
   but master not concerned about money (only 1 mina), 
   wanted to see what servant would do with it
+knowing our Master has infinite resources frees us to take risks
+  not to be profligate or naive 
+  but generous w/time, unhindered in mercy to the suffering
 
 ---
 <!-- .slide: data-background="white" -->
