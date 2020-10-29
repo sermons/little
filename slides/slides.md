@@ -17,6 +17,23 @@
 + Behold the Lamb of God
 
 ---
+## Luke 18-19: Final Journey to Jeru.
++ Prayer of the *Tax Collector* [(18:9-14)](# "ref")
++ Humility of the *Little Children* [(18:15-17)](# "ref")
++ Sorrow of the *Rich Ruler* [(18:18-30)](# "ref")
++ Faith of the *Blind Beggar* [(18:35-43)](# "ref")
++ Repentance of *Zacchaeus* [(19:1-10)](# "ref")
++ **Parable of Ten Minas** [(19:11-27)](# "ref")
++ *Triumphal Entry* [(19:28-44)](# "ref")
+
+>>>
++ kingdom of God belongs to those who 
+  + **humble** themselves like a child: e.g.,
++ tax collector's prayer
++ blind beggar who cried out all the more
++ Zacchaeus: the lost whom Christ seeks+saves
+
+---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 And will not God bring about <br/>
 **justice** for his **chosen ones**, <br/>
@@ -39,12 +56,16 @@ will he find **faith** on the earth?
 
 [Luke 18:8 (NIV) (p.2/2)](# "ref")
 
+>>>
++ God certainly hears the cry of the oppressed:
++ but when He comes, will He find faith?
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Faithful in the Littlest [(Lk19)](# "ref")
-1. Good Servants [(v)](# "ref")
-1. Wicked Servant [(v)](# "ref")
-1. Enemies of the King [(v)](# "ref")
+1. The Good Servants [(v11-13,15-19)](# "ref")
+1. The Wicked Servant [(v20-26)](# "ref")
+1. The Enemies of the King [(v14,27)](# "ref")
 
 >>>
 
@@ -55,11 +76,24 @@ the **kingdom of God** was to appear **immediately**.
 
 [Luke 19:11 (ESV)](# "ref")
 
+>>>
+Mt24:4-14 end of the age: wars, famine, false prophets, persecution
+caught unawares:
+24:37 as in the days of Noah
+24:50 as wicked steward
+25:8 as unprepared wedding guests
+
 ---
 Calling **ten** of his servants, <br>
 he gave them ten **minas** <br>
 
 [Luke 19:13 (ESV)](# "ref")
+
+>>>
+[find photo of mina coin]
+mina = 100 days' wages: ~$15-20k
+cf Mt25 talent = 60 minas
+so not a ton of money: purpose is to demonstrate **faithfulness** w/investment
 
 ---
 ‘Engage in **business** until I come.’
@@ -68,13 +102,6 @@ he gave them ten **minas** <br>
 had **gained** by doing business. 
 
 [Luke 19:13,15 (ESV)](# "ref")
-
----
-But his citizens **hated** him and <br>
-sent a delegation after him, saying, <br>
-‘We do **not** want this man to **reign** over us.’ 
-
-[Luke 19:14 (ESV)](# "ref")
 
 ---
 The **first** came before him, saying, <br>
@@ -94,6 +121,32 @@ And he said to him, <br>
 ‘And you are to be over **five cities**.’ 
 
 [Luke 19:18-19 (ESV)](# "ref")
+
+>>>
+faithful in littlest
+reward is 10 **cities**: the mina pales in comparison
+look what your mina has produced: God enables, but we invest it, to the glory of God
+saved by faith: but faith lived out in obedience
+
+we think of little things as:
+  spend 10min playing w/little kid
+  buy sandwich for street person
+but the littlest here is money!
+  yes, be financially responsible, good steward
+  but that's the basic minimum
+even more important:
+  showing compassion, providing for others
+
+appl: money/job: integrity, pursuing justice
+appl: providing for those in our care: Mt24:45-46 gives food at proper time
+appl: cultivating mercy: Mt25:37-40 hunger, stranger, naked, sick, prison
+
+---
+<!-- .slide: data-background="white" -->
+# In what "**little** things" do I need to be more **faithful**?
+
+---
+outline
 
 ---
 Then another came, saying, <br>
@@ -143,46 +196,7 @@ even what he has will be **taken away**.
 
 [Luke 19:26 (ESV)](# "ref")
 
----
-But as for these **enemies** of mine, <br>
-who did **not want** me to reign over them, <br>
-bring them here and **slaughter** them before me.’
-
-[Luke 19:27 (ESV)](# "ref")
-
 >>>
-ch18-19: Jesus' final journey to Jerusalem, triumphal entry
-
-18:8 God certainly hears the cry of the oppressed: but when He comes, will He find faith?
-18:17 kingdom of God belongs to those who **humble** themselves like a child: e.g.,
-18:13 tax collector's prayer
-18:39 blind beggar who cried out all the more
-19:10 Zacchaeus: the lost whom Christ seeks+saves
-
-Mt24:4-14 end of the age: wars, famine, false prophets, persecution
-caught unawares:
-24:37 as in the days of Noah
-24:50 as wicked steward
-25:8 as unprepared wedding guests
-
-[find photo of mina coin]
-mina = 100 days' wages: ~$15-20k
-cf Mt25 talent = 60 minas
-so not a ton of money: purpose is to demonstrate **faithfulness** w/investment
-
-1. good servants
-faithful in littlest
-reward is 10 **cities**: the mina pales in comparison
-look what your mina has produced: God enables, but we invest it, to the glory of God
-saved by faith: but faith lived out in obedience
-
-appl: money/job: integrity, pursuing justice
-appl: providing for those in our care: Mt24:45-46 gives food at proper time
-appl: cultivating mercy: Mt25:37-40 hunger, stranger, naked, sick, prison
-
-Q: in what do I need to be more faithful?
-
-2. wicked servant
 look, here's your mina (not what it has produced)
 all of them **return** mina to master
 1st servant keeps 10 minas earned
@@ -194,11 +208,31 @@ risk-averse: afraid would lose mina due to forces beyond his control
   but master not concerned about money (only 1 mina), 
   wanted to see what servant would do with it
 
-Q: have I felt God to be austere or unreasonable?
+---
+<!-- .slide: data-background="white" -->
+# Have I felt God to be **austere** or unreasonable?
 
-3. enemies
+---
+outline
+
+---
+But his citizens **hated** him and <br>
+sent a delegation after him, saying, <br>
+‘We do **not** want this man to **reign** over us.’ 
+
+[Luke 19:14 (ESV)](# "ref")
+
+---
+But as for these **enemies** of mine, <br>
+who did **not want** me to reign over them, <br>
+bring them here and **slaughter** them before me.’
+
+[Luke 19:27 (ESV)](# "ref")
+
+>>>
 seems harsh?
 Christ will return as conquering king
 
-Q: am I unwilling for God to rule over me?
-
+---
+<!-- .slide: data-background="white" -->
+# Am I **unwilling** for Christ to **rule** over me?
