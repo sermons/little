@@ -3,31 +3,34 @@
 ## Luke 19:11-27
 
 >>>
-+ When **overwhelmed** by trouble, 
-  + **despairing** at state of world, 
++ When we are **overwhelmed** by trouble, 
+  + **despairing** at the state of the world, 
   + **indignant** that things are not right
-+ We **expect** that God will **rescue** us:
++ We **expect** that God will **rescue** us
   + look **forward** to coming of **kingdom** of God
+  + when He'll come and just **fix** things
++ But is it **possible** that I've:
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I **misunderstood** the coming of the kingdom of God?
+# Have I **misunderstood** <br> the coming of the **kingdom** of God?
 
 >>>
-+ I think Jesus will return to **pay back** everyone who's **wronged** me
-  + to **judge** those who haven't fulfilled their **responsibilities**
-+ But what about **myself**?
-  + Have I **wronged** others or **neglected** my respons. before God?
++ Think Jesus'll return to **pay back** all who've **wronged** me
+  + to **judge** those who haven't fulfilled their **responsib** to me
++ But what about **myself**? Have I **wronged** others 
+  + or **neglected** my responsibilities before God?
 + Throughout **Luke**, Jesus shows us **kingdom of God** 
   + It's **not** what you think it is!
-+ Behold the **Lamb** of God: **[ PRAYER ]**
++ Behold the **Lamb** of God:
++ **[ PRAYER ]**
 + Give us **ears** to hear, **eyes** to see, **hearts** to understand
   + what the **coming** of Your **kingdom** will bring
 + May we **turn** our hearts + actions, turn in **obedience** to You,
   + turn before it's too **late**, may we turn and be **healed**
 
 ---
-## Final Journey to Jeru. [(Luke 18-19)](# "ref")
+## Jesus' Final Journey to Jerusalem [(Luke 18-19)](# "ref")
 + Prayer of the *Tax Collector* [(18:9-14)](# "ref")
 + Humility of the *Little Children* [(18:15-17)](# "ref")
 + Sorrow of the *Rich Ruler* [(18:18-30)](# "ref")
@@ -76,7 +79,8 @@ will he find **faith** on the earth?
   + But **active** waiting: active **faith**
 + Faithfully **investing** the blessings He's lent us
   + in expectation of an infinitely **greater** reward in heaven
-+ 3 **groups** of people who **interact** with the master in this parable:
++ 3 **groups** of people who **interact** 
+  + with the master in this parable:
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
@@ -88,7 +92,8 @@ will he find **faith** on the earth?
 >>>
 + 1: What the Master is **looking** for from us
 + 2: How he **failed**
-+ 3: **authority** of the King, **importance** of a submissive heart toward Him
++ 3: **authority** of the King
+  + **importance** of a submissive heart toward Him
 + Key to **understanding** this parable is in v11:
   + the **reason** Jesus tells this parable is
 
@@ -103,7 +108,7 @@ the **kingdom of God** was to appear **immediately**.
 + Living under corrupt **oppression**:
   + felt that God had **forgotten** them
   + hoping kingdom of God would mean their **deliverance**
-+ Jesus was saying: that's **not** what coming of Kingdom will be like!
++ Jesus: that's **not** what coming of Kingdom will be like!
 + **1st** coming was to **redeem** His own (buy back)
   + **2nd** coming is to **judge** the nations
 + 1st coming Jesus rode a **donkey**: humble, suffering Servant
@@ -132,7 +137,7 @@ and in righteousness he **judges** and makes **war**.
 + The *Sheep* and the *Goats* [(25:31-46)](# "ref")
 
 >>>
-+ Jesus' **warning**: amidst wars, famine, persecu., false prophets
++ **Warning**: amidst wars, famine, persecu., false prophets
   + which will accompany the **end** of the age,
 + We must not be caught **unprepared** for Christ's return,
   + as they were in the days of **Noah**
@@ -227,7 +232,8 @@ And he said to him, <br>
   + He still got **5 cities**!  
 + The **immensity** of the reward far outweighs any competition
 + Bc the **greatest** reward is the **joy** of the master
-+ It was never **about** the money, the master was looking for **faithfulness**
++ It was never **about** the money:
+  + the master was looking for **faithfulness**
 
 ---
 >>>
@@ -262,15 +268,17 @@ you did it to **me**.’
 + With those **people** God has entrusted into our **care**:
   + **children**, elderly, infirm
   + do we **serve** with patience and **gentleness** in God's grace?
-+ With the **needy** in our city, the immigrants / **refugees**, incarcerated:
++ With the **needy** in our city
+  + the immigrants / **refugees**, incarcerated:
   + do we cultivate **mercy** + compassion as God showed to us?
 + This is our **coin**, our mina: it **is** our responsibility before God!
   + Not that we can **fix** the ills of the world
-+ But bc our **master** examines our **hearts**, looking for **faithfulness**
++ But bc our **master** examines our **hearts**
+  + looking for **faithfulness**
 
 ---
 <!-- .slide: data-background="white" -->
-# In what "**little** things" do I need to be more **faithful**?
+# In what <br> "**little** things" <br> do I need to be more **faithful**?
 
 ---
 outline
@@ -295,7 +303,8 @@ which I kept laid away in a **handkerchief**;
   + This one: "See, your **mina**, returned to you!"
 + Carefully **protected**, not stolen, lost, or **squandered**
   + Put the **importance** on the **coin** itself
-+ Master probably said, "**yeah** ok, thx, I have a whole **box** of them"
++ Master probably said, 
+  + "**yeah** ok, thx, I have a whole **box** of them"
 + Servant feels a need to **justify** himself:
 
 ---
@@ -348,8 +357,9 @@ collected it with **interest**?’
 + If had **invested**, even if **lost** money due to external forces,
   + master probably would have still been **ok** with him
 + Bc point was not about the **coin** but **decision-making**
-  + (so maybe if made poor **decisions**, he wouldn't get any **cities**!)
-+ And those **minas**, the initial investment, all went **back** to the master:
+  + (so maybe if poor **decisions**, wouldn't get any **cities**!)
++ And those **minas**, the initial investment,
+  + all went **back** to the master:
 
 ---
 And he said to those who stood by, <br>
@@ -482,7 +492,7 @@ the first and the last, the beginning and the end.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **unwilling** for Christ to **rule** over me?
+# Am I **unwilling** <br> for Christ <br> to **rule** over me?
 
 >>>
 + If so, it's not too **late** to change
