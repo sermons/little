@@ -338,7 +338,7 @@ and **reap** what you did not sow.’
 + e.g., father buys me **house**: but I'm reminded it was **his** money
   + so I only use a small **corner** of it, don't **touch** rooms
   + nor **maintain** house, **mow** lawn: **nervous** he'll be **mad**
-+ But what would a **loving** father say?
++ But how would a **loving** father respond to that?
 
 ---
 He said to him, ‘I will **condemn** you <br>
