@@ -115,7 +115,10 @@ the **kingdom of God** was to appear **immediately**.
   + 2nd, at final **judgment**:
 
 ---
-Then I saw heaven opened, and behold, a **white horse**! <br>
+Then I saw heaven opened, <br>
+and behold, a **white horse**! 
+
+
 The one sitting on it is called **Faithful** and **True**, <br>
 and in righteousness he **judges** and makes **war**.
 
@@ -250,17 +253,26 @@ And he said to him, <br>
   + His **sheep** who will **inherit** the kingdom:
 
 ---
-"Lord, when did we see you **hungry** and feed you, <br>
-or **thirsty** and give you drink? <br>
-And when did we see you a **stranger** and welcome you, <br>
-or **naked** and clothe you? <br>
-And when did we see you **sick** or in **prison** and visit you?" 
+"Lord, when did we see you <br>
+**hungry** and feed you, <br>
+or **thirsty** and give you drink?
 
-And the King will answer them, ‘Truly, I say to you, <br>
-as you did it to one of the **least** of these my **brothers**, <br>
+And when did we see you <br>
+a **stranger** and welcome you, <br>
+or **naked** and clothe you?
+
+And when did we see you **sick** <br>
+or in **prison** and visit you?" 
+
+[Matthew 25:37-40 (ESV) (p.1/2)](# "ref")
+
+---
+And the King will answer them, <br>
+‘Truly, I say to you, as you did it <br>
+to one of the **least** of these my **brothers**, <br>
 you did it to **me**.’
 
-[Matthew 25:37-40 (ESV)](# "ref")
+[Matthew 25:37-40 (ESV) (p.2/2)](# "ref")
 
 >>>
 + In our **schooling** / careers: w/**classmates**, coworkers, clients:
@@ -285,7 +297,7 @@ outline
 
 >>>
 + The **purpose** of master's test is not about earning **money**
-  + But seeing the **decisions** the servants made
+  + But to see the **decisions** the servants made, and
   + What that **revealed** about their faithfulness
 + Now we come to the **wicked** servant:
   + What did he do **wrong**, and 
@@ -345,8 +357,9 @@ You knew that I was a **severe** man, <br>
 + Would have been ok with even the bare **minimum** investment:
 
 ---
-Why then did you not put my money in the **bank**, <br>
-and at my coming I might have 
+Why then did you not <br>
+put my money in the **bank**, <br>
+and at my coming I might have <br>
 collected it with **interest**?’ 
 
 [Luke 19:23 (ESV)](# "ref")
@@ -394,8 +407,11 @@ even what he has will be **taken away**.
 + As **Philippians** says:
 
 ---
-Therefore, my beloved, as you have always **obeyed**, ...<br>
-**work out** your own salvation with fear and trembling, 
+Therefore, my beloved, <br>
+as you have always **obeyed**, ...
+
+**work out** your own salvation <br>
+with fear and trembling, 
 
 for it is **God** who works in you, <br>
 both to **will** and to **work** for his good pleasure
@@ -404,8 +420,8 @@ both to **will** and to **work** for his good pleasure
 
 >>>
 + **Paradox** of righteousness: 
-  + **counterintuitive** or apparently **contradictory**
-  + whose **resolution** reveals deeper truth
+  + (**counterintuitive** or apparently **contradictory**
+  + whose **resolution** reveals deeper truth)
 + Namely: saved by **grace**, through **faith**, not by **works**
   + but this saving **faith** is **living** + active
 + It is God who gives us the **will**: desire, impetus
@@ -430,11 +446,11 @@ both to **will** and to **work** for his good pleasure
 outline
 
 >>>
-+ Both the **good** and the **wicked** servants were still
++ Now, both the **good** and the **wicked** servants were still
   + in the master's **household**, serving the master
-+ Parable in Matt has a **harsh** punishment for the wicked:
++ Parable in Matt has **harsh** punishment for wicked servant:
   + **cast out** in darkness, weeping, gnashing
-+ In Luke, Jesus adds citizens **outside** his household,
++ In Luke, Jesus adds 3rd group: citizens **outside** house,
   + those who **rejected** the master's authority:
 
 ---
@@ -484,7 +500,8 @@ the first and the last, the beginning and the end.
   + It is **just** bc He **defines** what justice is
 + He is returning to **settle accounts**
   + Like it or not, He is **King** -- will I **yield** to Him?
-+ Sometimes I don't **want** to submit, don't want to **speak** His Word
++ Sometimes I don't **want** to submit,
+  + don't want to **speak** His Word
   + feel **weight** of worry of getting it **wrong**, rather not even **try**
 + But **woe** to me if I do not preach the **gospel** (1Cor9)
   + At the **minimum**, I have a **stewardship** to fulfill
