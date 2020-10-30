@@ -98,11 +98,13 @@ will he find **faith** on the earth?
   + the **reason** Jesus tells this parable is
 
 ---
+<!-- .slide: <%= bg("unsplash-2rjmDDQrXUI-palm_leaf.jpg") %> -->
 because he was near to **Jerusalem**, <br>
 and because they supposed that <br>
 the **kingdom of God** was to appear **immediately**. 
 
 [Luke 19:11 (ESV)](# "ref")
+[Leon, Mexico. Levi Hernández](https://unsplash.com/photos/2rjmDDQrXUI "caption")
 
 >>>
 + Living under corrupt **oppression**:
@@ -115,14 +117,15 @@ the **kingdom of God** was to appear **immediately**.
   + 2nd, at final **judgment**:
 
 ---
+<!-- .slide: <%= bg("pixabay-4385864-horse.jpg") %> -->
 Then I saw heaven opened, <br>
 and behold, a **white horse**! 
-
 
 The one sitting on it is called **Faithful** and **True**, <br>
 and in righteousness he **judges** and makes **war**.
 
 [Revelation 19:11 (ESV)](# "ref")
+[France. Céline Martin](https://pixabay.com/photos/cheval-%C3%A9quitation-noir-et-blanc-4385864/ "caption")
 
 >>>
 + Christ returns as the conquering **King**
@@ -153,11 +156,12 @@ and in righteousness he **judges** and makes **war**.
   + the master
 
 ---
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
 Calling **ten** of his servants, <br>
 he gave them ten **minas** <br>
 
 [Luke 19:13 (ESV)](# "ref")
-[photo of mina coin](# "caption")
+[Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
 + mina = 100 days' wages: ~$15-20k
@@ -168,6 +172,7 @@ he gave them ten **minas** <br>
 + Master's **instruction**:
 
 ---
+<!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
 ‘Engage in **business** until I come.’
 
 ______
@@ -177,6 +182,7 @@ ______
 had **gained** by doing business. 
 
 [Luke 19:13,15 (ESV)](# "ref")
+[Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 
 >>>
 + Root in both: **pragma**: pragmatic, practical
@@ -188,10 +194,12 @@ had **gained** by doing business.
   + not simply the **end result**
 
 ---
+<!-- .slide: <%= bg("unsplash-mYT03hytMcU-old_coins.jpg") %> -->
 The **first** came before him, saying, <br>
 ‘Lord, your mina has made **ten minas** more.’ 
 
 [Luke 19:16 (ESV)](# "ref")
+[udit saptarshi](https://unsplash.com/photos/mYT03hytMcU "caption")
 
 >>>
 + 1000% ROI (though time horizon not specified)
@@ -204,11 +212,13 @@ The **first** came before him, saying, <br>
 + And the master's **response**?
 
 ---
+<!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
 And he said to him, ‘**Well done**, good servant! <br>
 Because you have been faithful in a **very little**, <br>
 you shall have authority over **ten cities**.’ 
 
 [Luke 19:17 (ESV)](# "ref")
+[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 >>>
 + Master considers that mina (even 10 minas) the **littlest**
@@ -221,6 +231,7 @@ you shall have authority over **ten cities**.’
   + you might empathise with the **second** servant:
 
 ---
+<!-- .slide: <%= bg("unsplash-qqHJkcP1HjI-mtns_islands_water_norway.jpg") %> -->
 And the **second** came, saying, <br>
 ‘Lord, your mina has made **five minas**.’ 
 
@@ -228,6 +239,7 @@ And he said to him, <br>
 ‘And you are to be over **five cities**.’ 
 
 [Luke 19:18-19 (ESV)](# "ref")
+[Reine, Norway. Jonas Geschke](https://unsplash.com/photos/qqHJkcP1HjI "caption")
 
 >>>
 + aw, only **500%** ROI! Master didn't even say, "**Well done!**"
@@ -253,6 +265,7 @@ And he said to him, <br>
   + His **sheep** who will **inherit** the kingdom:
 
 ---
+<!-- .slide: <%= bg("unsplash-AEaTUnvneik-vietnam_kids.jpg") %> -->
 "Lord, when did we see you <br>
 **hungry** and feed you, <br>
 or **thirsty** and give you drink?
@@ -265,8 +278,10 @@ And when did we see you **sick** <br>
 or in **prison** and visit you?" 
 
 [Matthew 25:37-40 (ESV) (p.1/2)](# "ref")
+[Chư Păh District, Vietnam. Larm Rmah](https://unsplash.com/photos/AEaTUnvneik "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-AEaTUnvneik-vietnam_kids.jpg") %> -->
 And the King will answer them, <br>
 ‘Truly, I say to you, as you did it <br>
 to one of the **least** of these my **brothers**, <br>
@@ -357,12 +372,14 @@ You knew that I was a **severe** man, <br>
 + Would have been ok with even the bare **minimum** investment:
 
 ---
+<!-- .slide: <%= bg("unsplash-ZVprbBmT8QA-money_leaf.jpg") %> -->
 Why then did you not <br>
 put my money in the **bank**, <br>
 and at my coming I might have <br>
 collected it with **interest**?’ 
 
 [Luke 19:23 (ESV)](# "ref")
+[Micheile Henderson](https://unsplash.com/photos/ZVprbBmT8QA "caption")
 
 >>>
 + "Interest": what **grows** of itself: no work required, zero **risk**
