@@ -568,7 +568,7 @@ the first and the last, the beginning and the end.
 **[ PRAYER ]**
 
 ---
-<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> class="empty" -->
 >>>
 + Thank You, Lord, for your abundant **blessings**
   + which show what a **good** Father You are
