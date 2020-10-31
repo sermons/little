@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> id="title" -->
 # Faithful in <br> the Littlest
 ## Luke 19:11-27
+[Marco Chilese](https://unsplash.com/photos/ppXncLmzSbQ "caption")
 
 >>>
 + When we are **overwhelmed** by trouble, 
@@ -83,11 +84,11 @@ will he find **faith** on the earth?
   + with the master in this parable:
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> id="outline" class="outline" -->
 ## Faithful in the Littlest [(Lk19)](# "ref")
-1. The Good Servants [(v11-13,15-19)](# "ref")
-1. The Wicked Servant [(v20-26)](# "ref")
-1. The Enemies of the King [(v14,27)](# "ref")
+1. The **Good** Servants [(v11-13,15-19)](# "ref")
+1. The **Wicked** Servant [(v20-26)](# "ref")
+1. The **Enemies** of the King [(v14,27)](# "ref")
 
 >>>
 + 1: What the Master is **looking** for from us
@@ -308,7 +309,11 @@ you did it to **me**.’
 # In what <br> "**little** things" <br> do I need to be more **faithful**?
 
 ---
-outline
+<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> class="outline" -->
+## Faithful in the Littlest [(Lk19)](# "ref")
+1. The Good Servants [(v11-13,15-19)](# "ref")
+1. **The Wicked Servant** [(v20-26)](# "ref")
+1. The Enemies of the King [(v14,27)](# "ref")
 
 >>>
 + The **purpose** of master's test is not about earning **money**
@@ -319,11 +324,13 @@ outline
   + what does that reveal about **our** misconceptions of God?
 
 ---
+<!-- .slide: <%= bg("unsplash-UChknR2z5EM-treasure_box.jpg") %> -->
 Then another came, saying, <br>
 ‘Lord, **here is** your mina, <br>
 which I kept laid away in a **handkerchief**; 
 
 [Luke 19:20 (ESV)](# "ref")
+[Jouwen Wang](https://unsplash.com/photos/UChknR2z5EM "caption")
 
 >>>
 + First two: "See what your mina has **done**!"
@@ -335,12 +342,15 @@ which I kept laid away in a **handkerchief**;
 + Servant feels a need to **justify** himself:
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 for I was **afraid** of you, <br>
-because you are a **severe** man. <br>
+because you are a **severe** man.
+
 You **take** what you did not deposit, <br>
 and **reap** what you did not sow.’ 
 
 [Luke 19:21 (ESV)](# "ref")
+[Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
 + Try that **tactic** next time **afraid** boss/teacher will reprimand:
@@ -356,6 +366,7 @@ and **reap** what you did not sow.’
 + But how would a **loving** father respond to that?
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 He said to him, ‘I will **condemn** you <br>
 with your own words, you **wicked** servant! 
 
@@ -372,14 +383,15 @@ You knew that I was a **severe** man, <br>
 + Would have been ok with even the bare **minimum** investment:
 
 ---
-<!-- .slide: <%= bg("unsplash-ZVprbBmT8QA-money_leaf.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-lZ_4nPFKcV8-money_leaf.jpg") %> -->
 Why then did you not <br>
-put my money in the **bank**, <br>
+put my money in the **bank**,
+
 and at my coming I might have <br>
 collected it with **interest**?’ 
 
 [Luke 19:23 (ESV)](# "ref")
-[Micheile Henderson](https://unsplash.com/photos/ZVprbBmT8QA "caption")
+[Micheile Henderson](https://unsplash.com/photos/lZ_4nPFKcV8 "caption")
 
 >>>
 + "Interest": what **grows** of itself: no work required, zero **risk**
@@ -392,6 +404,7 @@ collected it with **interest**?’
   + all went **back** to the master:
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 And he said to those who stood by, <br>
 ‘**Take** the mina from him, and <br>
 give it to the one who has the **ten** minas.’ 
@@ -401,6 +414,7 @@ And they said to him, ‘Lord, he has ten minas!’
 [Luke 19:24-26 (ESV) (p.1/2)](# "ref")
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 ‘I tell you that to everyone who **has**, <br>
 **more** will be given, 
 
@@ -424,6 +438,7 @@ even what he has will be **taken away**.
 + As **Philippians** says:
 
 ---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 Therefore, my beloved, <br>
 as you have always **obeyed**, ...
 
@@ -434,6 +449,7 @@ for it is **God** who works in you, <br>
 both to **will** and to **work** for his good pleasure
 
 [Philippians 2:12,13 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
 
 >>>
 + **Paradox** of righteousness: 
@@ -460,7 +476,11 @@ both to **will** and to **work** for his good pleasure
 + and examines our **hearts**, looking for **faithfulness**?
 
 ---
-outline
+<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> class="outline" -->
+## Faithful in the Littlest [(Lk19)](# "ref")
+1. The Good Servants [(v11-13,15-19)](# "ref")
+1. The Wicked Servant [(v20-26)](# "ref")
+1. **The Enemies of the King** [(v14,27)](# "ref")
 
 >>>
 + Now, both the **good** and the **wicked** servants were still
@@ -471,11 +491,13 @@ outline
   + those who **rejected** the master's authority:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 But his citizens **hated** him and <br>
 sent a delegation after him, saying, <br>
 ‘We do **not** want this man to **reign** over us.’ 
 
 [Luke 19:14 (ESV)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + Implying that there was some **higher** authority
@@ -485,11 +507,13 @@ sent a delegation after him, saying, <br>
 + But they **failed**, and upon his return:
 
 ---
+<!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
 But as for these **enemies** of mine, <br>
 who did **not want** me to reign over them, <br>
 bring them here and **slaughter** them before me.’
 
 [Luke 19:27 (ESV)](# "ref")
+[&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 
 >>>
 + Seems **harsh**?
@@ -502,6 +526,7 @@ bring them here and **slaughter** them before me.’
 + In the very **last** chapter of the Bible:
 
 ---
+<!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
 Behold, I am **coming soon**, bringing my **recompense** with me,<br>
 to repay each one for what he has **done**.
 
@@ -509,6 +534,7 @@ I am the **Alpha** and the **Omega**, <br>
 the first and the last, the beginning and the end.
 
 [Revelation 22:12-13 (ESV)](# "ref")
+[Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
 + He is the One who **started** history, and He will **wrap** it up
@@ -542,6 +568,7 @@ the first and the last, the beginning and the end.
 **[ PRAYER ]**
 
 ---
+<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> class="empty" -->
 >>>
 + Thank You, Lord, for your abundant **blessings**
   + which show what a **good** Father You are
