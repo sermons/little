@@ -1,7 +1,7 @@
-<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> id="title" -->
 # Faithful in <br> the Littlest
 ## Luke 19:11-27
-[Marco Chilese](https://unsplash.com/photos/ppXncLmzSbQ "caption")
+[Heike Mintel](https://unsplash.com/photos/i_Gns0ELnLw "caption")
 
 >>>
 + When we are **overwhelmed** by trouble, 
@@ -84,7 +84,7 @@ will he find **faith** on the earth?
   + with the master in this parable:
 
 ---
-<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> id="outline" class="outline" -->
 ## Faithful in the Littlest [(Lk19)](# "ref")
 1. The **Good** Servants [(v11-13,15-19)](# "ref")
 1. The **Wicked** Servant [(v20-26)](# "ref")
@@ -309,7 +309,7 @@ you did it to **me**.’
 # In what <br> "**little** things" <br> do I need to be more **faithful**?
 
 ---
-<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> class="outline" -->
 ## Faithful in the Littlest [(Lk19)](# "ref")
 1. The Good Servants [(v11-13,15-19)](# "ref")
 1. **The Wicked Servant** [(v20-26)](# "ref")
@@ -476,7 +476,7 @@ both to **will** and to **work** for his good pleasure
 + and examines our **hearts**, looking for **faithfulness**?
 
 ---
-<!-- .slide: <%= bg("unsplash-ppXncLmzSbQ-hands.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> class="outline" -->
 ## Faithful in the Littlest [(Lk19)](# "ref")
 1. The Good Servants [(v11-13,15-19)](# "ref")
 1. The Wicked Servant [(v20-26)](# "ref")
