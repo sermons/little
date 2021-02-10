@@ -4,7 +4,8 @@
   "description": "Lk19:11-27 Faithful in the Littlest",
   "keywords": [
     "sermon",
-    "luke"
+    "luke",
+    "zh"
   ],
   "version": "2.2.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
@@ -20,6 +21,12 @@
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "2021-02-21",
+        "duration": 25
+      },
       {
         "venue": "Pacific Grace MB Church",
         "city": "South Vancouver",
