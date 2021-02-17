@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> id="title" -->
-# Faithful in <br> the Littlest
-## Luke 19:11-27
+# Faithful in <br> the Littlest <br> 在小事上忠心
+## Luke 路加福音 19:11-27
 [Heike Mintel](https://unsplash.com/photos/i_Gns0ELnLw "caption")
 
 >>>
@@ -14,7 +14,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I **misunderstood** <br> the coming of the **kingdom** of God?
+## Have I **misunderstood** the coming of the **kingdom** of God?
+## 我對神國的來臨有誤解嗎？
 
 >>>
 + Think Jesus'll return to **pay back** all who've **wronged** me
@@ -39,6 +40,18 @@
 + Repentance of *Zacchaeus* [(19:1-10)](# "ref")
 + **Parable of Ten Minas** [(19:11-27)](# "ref")
 + *Triumphal Entry* [(19:28-44)](# "ref")
+
+<!--
+耶穌最後的耶路撒冷之旅
+
+稅吏的禱告
+小孩子的謙卑
+富有的官的難過
+盲丐的信心
+撒該的悔改
+十錠銀子的比喻
+光榮進聖城
+-->
 
 >>>
 + Travelling through **Jericho** on final journey to **Jerusalem**,
@@ -89,6 +102,12 @@ will he find **faith** on the earth?
 1. The **Good** Servants [(v11-13,15-19)](# "ref")
 1. The **Wicked** Servant [(v20-26)](# "ref")
 1. The **Enemies** of the King [(v14,27)](# "ref")
+
+<!--
+好的僕人
+壞的僕人
+王的仇敵
+-->
 
 >>>
 + 1: What the Master is **looking** for from us
@@ -142,6 +161,18 @@ and in righteousness he **judges** and makes **war**.
 + The *Wedding Guests* [(25:1-13)](# "ref")
 + The **Servants' Investments** [(25:14-30)](# "ref")
 + The *Sheep* and the *Goats* [(25:31-46)](# "ref")
+
+<!--
+要警醒
+
+末世的預兆
+無花果樹的預兆
+挪亞的預兆 
+管家 
+十童女 
+僕人的投資 
+綿羊與山羊
+-->
 
 >>>
 + **Warning**: amidst wars, famine, persecu., false prophets
@@ -306,7 +337,8 @@ you did it to **me**.’
 
 ---
 <!-- .slide: data-background="white" -->
-# In what <br> "**little** things" <br> do I need to be more **faithful**?
+## In what "**little** things" do I need to be more **faithful**?
+## 我在哪些小事上需要更忠心?
 
 ---
 <!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> class="outline" -->
@@ -469,7 +501,8 @@ both to **will** and to **work** for his good pleasure
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I ever felt God to be **austere** or unreasonable?
+## Have I ever felt God to be **austere** or unreasonable?
+## 我是否曾經感到 上帝嚴厲和不合理
 
 >>>
 + Or is He the gracious master who has already **invested** in us
@@ -552,7 +585,8 @@ the first and the last, the beginning and the end.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I **unwilling** <br> for Christ <br> to **rule** over me?
+## Am I **unwilling** for Christ to **rule** over me?
+## 我是否不願意讓 基督管轄我?
 
 >>>
 + If so, it's not too **late** to change
