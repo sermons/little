@@ -32,26 +32,15 @@
   + turn before it's too **late**, may we turn and be **healed**
 
 ---
-## Jesus' Final Journey to Jerusalem [(Luke 18-19)](# "ref")
-+ Prayer of the *Tax Collector* [(18:9-14)](# "ref")
-+ Humility of the *Little Children* [(18:15-17)](# "ref")
-+ Sorrow of the *Rich Ruler* [(18:18-30)](# "ref")
-+ Faith of the *Blind Beggar* [(18:35-43)](# "ref")
-+ Repentance of *Zacchaeus* [(19:1-10)](# "ref")
-+ **Parable of Ten Minas** [(19:11-27)](# "ref")
-+ *Triumphal Entry* [(19:28-44)](# "ref")
-
-<!--
-耶穌最後的耶路撒冷之旅
-
-稅吏的禱告
-小孩子的謙卑
-富有的官的難過
-盲丐的信心
-撒該的悔改
-十錠銀子的比喻
-光榮進聖城
--->
+<!-- .slide: style="font-size: 0.8rem" -->
+## Jesus' Final Journey to Jerusalem <br> 耶穌最後的耶路撒冷之旅 [(Lk 18-19)](# "ref")
++ Prayer of *Tax Collector* 稅吏的禱告 [(18:9-14)](# "ref")
++ Humility of *Children* 小孩子的謙卑 [(18:15-17)](# "ref")
++ Sorrow of *Rich Ruler* 富有的官的難過 [(18:18-30)](# "ref")
++ Faith of *Blind Beggar* 盲丐的信心 [(18:35-43)](# "ref")
++ Repentance of *Zacchaeus* 撒該的悔改 [(19:1-10)](# "ref")
++ **Parable of Ten Minas** 十錠銀子的比喻 [(19:11-27)](# "ref")
++ *Triumphal Entry* 光榮進聖城 [(19:28-44)](# "ref")
 
 >>>
 + Travelling through **Jericho** on final journey to **Jerusalem**,
@@ -68,22 +57,28 @@
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 And will not God bring about <br/>
-**justice** for his **chosen ones**,
-
+**justice** for his **chosen ones**,<br>
 who cry out to him day and night? <br/>
 Will he keep **putting them off**?
 
-[Luke 18:7 (NIV) (p.1/2)](# "ref")
+神的選民晝夜呼籲他，<br>
+他縱然為他們忍了多時，<br>
+豈不終久給他們伸冤麼？
+
+[Luke 路加 18:7 (NIV/CUV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 I tell you, he will see that <br/>
-they get **justice**, and **quickly**.
-
+they get **justice**, and **quickly**.<br>
 However, when the **Son of Man** comes, <br/>
 will he find **faith** on the earth?
 
-[Luke 18:8 (NIV) (p.2/2)](# "ref")
+我告訴你們，要快快的給他們伸冤了。<br>
+然而，人子來的時候，<br>
+遇得見世上有信德麼？
+
+[Luke 路加 18:8 (NIV/CUV) (p.2/2)](# "ref")
 
 >>>
 + God certainly **hears** the cry of the **oppressed**:
@@ -99,15 +94,9 @@ will he find **faith** on the earth?
 ---
 <!-- .slide: <%= bg("unsplash-i_Gns0ELnLw-hands.jpg") %> id="outline" class="outline" -->
 ## Faithful in the Littlest [(Lk19)](# "ref")
-1. The **Good** Servants [(v11-13,15-19)](# "ref")
-1. The **Wicked** Servant [(v20-26)](# "ref")
-1. The **Enemies** of the King [(v14,27)](# "ref")
-
-<!--
-好的僕人
-壞的僕人
-王的仇敵
--->
+1. The **Good** Servants **好的僕人** [(v11-13,15-19)](# "ref")
+1. The **Wicked** Servant **壞的僕人** [(v20-26)](# "ref")
+1. The **Enemies** of the King **王的仇敵** [(v14,27)](# "ref")
 
 >>>
 + 1: What the Master is **looking** for from us
@@ -123,7 +112,10 @@ because he was near to **Jerusalem**, <br>
 and because they supposed that <br>
 the **kingdom of God** was to appear **immediately**. 
 
-[Luke 19:11 (ESV)](# "ref")
+耶穌因為將近耶路撒冷，<br>
+又因他們以為神的國快要顯出來
+
+[Luke 路加 19:11 (ESV/CUV)](# "ref")
 [Leon, Mexico. Levi Hernández](https://unsplash.com/photos/2rjmDDQrXUI "caption")
 
 >>>
@@ -144,7 +136,11 @@ and behold, a **white horse**!
 The one sitting on it is called **Faithful** and **True**, <br>
 and in righteousness he **judges** and makes **war**.
 
-[Revelation 19:11 (ESV)](# "ref")
+我觀看，見天開了。有一匹白馬，<br>
+騎在馬上的稱為誠信真實，<br>
+他審判，爭戰，都按著公義。
+
+[Revelation 啟示錄 19:11 (ESV/CUV)](# "ref")
 [France. Céline Martin](https://pixabay.com/photos/cheval-%C3%A9quitation-noir-et-blanc-4385864/ "caption")
 
 >>>
@@ -153,26 +149,14 @@ and in righteousness he **judges** and makes **war**.
   + embedded within a **larger** section in Mt24-25:
 
 ---
-## Stay Awake [(Mt24-25)](# "ref")
-+ The *End* of the Age [(24:1-31)](# "ref")
-+ The Sign of the *Fig Tree* [(24:32-35)](# "ref")
-+ The Sign of *Noah* [(24:36-44)](# "ref")
-+ The House *Manager* [(24:45-51)](# "ref")
-+ The *Wedding Guests* [(25:1-13)](# "ref")
-+ The **Servants' Investments** [(25:14-30)](# "ref")
-+ The *Sheep* and the *Goats* [(25:31-46)](# "ref")
-
-<!--
-要警醒
-
-末世的預兆
-無花果樹的預兆
-挪亞的預兆 
-管家 
-十童女 
-僕人的投資 
-綿羊與山羊
--->
+## Stay Awake 要警醒 [(Mt 馬太 24-25)](# "ref")
++ The *End* of the Age *末世的預兆* [(24:1-31)](# "ref")
++ The Sign of the *Fig Tree* *無花果樹的預兆* [(24:32-35)](# "ref")
++ The Sign of *Noah* *挪亞的預兆* [(24:36-44)](# "ref")
++ The House *Manager* *管家* [(24:45-51)](# "ref")
++ The *Wedding Guests* *十童女* [(25:1-13)](# "ref")
++ **The Servants' Investments 僕人的投資** [(25:14-30)](# "ref")
++ The *Sheep* and the *Goats* *綿羊與山羊* [(25:31-46)](# "ref")
 
 >>>
 + **Warning**: amidst wars, famine, persecu., false prophets
@@ -192,7 +176,10 @@ and in righteousness he **judges** and makes **war**.
 Calling **ten** of his servants, <br>
 he gave them ten **minas** <br>
 
-[Luke 19:13 (ESV)](# "ref")
+便叫了他的十個僕人來，<br>
+交給他們十錠銀子
+
+[Luke 路加 19:13 (ESV/CUV)](# "ref")
 [Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
@@ -205,15 +192,17 @@ he gave them ten **minas** <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
-‘Engage in **business** until I come.’
+‘Engage in **business** until I come.’<br>
+你們去作生意，直等我回來
 
 ______
 <!-- .element: style="width:30%" -->
 
 ... that he might know what they <br>
-had **gained** by doing business. 
+had **gained** by doing business. <br>
+... 要知道他們做生意賺了多少
 
-[Luke 19:13,15 (ESV)](# "ref")
+[Luke 路加 19:13,15 (ESV)](# "ref")
 [Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 
 >>>
@@ -230,7 +219,10 @@ had **gained** by doing business.
 The **first** came before him, saying, <br>
 ‘Lord, your mina has made **ten minas** more.’ 
 
-[Luke 19:16 (ESV)](# "ref")
+頭一個上來，說：主阿，<br>
+你的一錠銀子已經賺了十錠
+
+[Luke 路加 19:16 (ESV/CUV)](# "ref")
 [udit saptarshi](https://unsplash.com/photos/mYT03hytMcU "caption")
 
 >>>
@@ -249,7 +241,11 @@ And he said to him, ‘**Well done**, good servant! <br>
 Because you have been faithful in a **very little**, <br>
 you shall have authority over **ten cities**.’ 
 
-[Luke 19:17 (ESV)](# "ref")
+主人說：好！良善的僕人，<br>
+你既在最小的事上有忠心，<br>
+可以有權柄管十座城
+
+[Luke 路加 19:17 (ESV/CUV)](# "ref")
 [Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 >>>
@@ -267,10 +263,15 @@ you shall have authority over **ten cities**.’
 And the **second** came, saying, <br>
 ‘Lord, your mina has made **five minas**.’ 
 
+第二個來，說：主阿！<br>
+你的一錠銀子，已經賺了五錠。
+
 And he said to him, <br>
 ‘And you are to be over **five cities**.’ 
 
-[Luke 19:18-19 (ESV)](# "ref")
+主人說：你也可以管五座城。
+
+[Luke 路加 19:18-19 (ESV/CUV)](# "ref")
 [Reine, Norway. Jonas Geschke](https://unsplash.com/photos/qqHJkcP1HjI "caption")
 
 >>>
@@ -298,26 +299,37 @@ And he said to him, <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-AEaTUnvneik-vietnam_kids.jpg") %> -->
-"Lord, when did we see you <br>
-**hungry** and feed you, <br>
-or **thirsty** and give you drink?
+"Lord, when did we see you **hungry** and <br>
+feed you, or **thirsty** and give you drink?
 
-And when did we see you <br>
-a **stranger** and welcome you, <br>
-or **naked** and clothe you?
+主阿，我們甚麼時候見你餓了，<br>
+給你吃，渴了，給你喝？
 
-And when did we see you **sick** <br>
-or in **prison** and visit you?" 
+And when did we see you a **stranger** and <br>
+welcome you, or **naked** and clothe you?
 
-[Matthew 25:37-40 (ESV) (p.1/2)](# "ref")
+甚麼時候見你作客旅，留你住，<br>
+或是赤身露體，給你穿？
+
+
+[Matthew 馬太 25:37-40 (ESV/CUV) (p.1/2)](# "ref")
 [Chư Păh District, Vietnam. Larm Rmah](https://unsplash.com/photos/AEaTUnvneik "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-AEaTUnvneik-vietnam_kids.jpg") %> -->
-And the King will answer them, <br>
-‘Truly, I say to you, as you did it <br>
-to one of the **least** of these my **brothers**, <br>
+And when did we see you **sick** <br>
+or in **prison** and visit you?" 
+
+又甚麼時候見你病了，或是在監裡，來看你呢？
+
+And the King will answer them, 
+‘Truly, I say to you, as you did it to 
+one of the **least** of these my **brothers**, 
 you did it to **me**.’
+
+王要回答說：我實在告訴你們，<br>
+這些事你們既做在我這弟兄中一個最小的身上，<br>
+就是做在我身上了。
 
 [Matthew 25:37-40 (ESV) (p.2/2)](# "ref")
 
@@ -361,7 +373,11 @@ Then another came, saying, <br>
 ‘Lord, **here is** your mina, <br>
 which I kept laid away in a **handkerchief**; 
 
-[Luke 19:20 (ESV)](# "ref")
+又有一個來說：<br>
+主阿，看哪，你的一錠銀子在這裡，<br>
+我把他包在手巾裡存著
+
+[Luke 路加 19:20 (ESV/CUV)](# "ref")
 [Jouwen Wang](https://unsplash.com/photos/UChknR2z5EM "caption")
 
 >>>
@@ -376,12 +392,16 @@ which I kept laid away in a **handkerchief**;
 ---
 <!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 for I was **afraid** of you, <br>
-because you are a **severe** man.
-
+because you are a **severe** man.<br>
 You **take** what you did not deposit, <br>
 and **reap** what you did not sow.’ 
 
-[Luke 19:21 (ESV)](# "ref")
+我原是怕你，因為你是嚴厲的人；<br>
+沒有放下的，還要去拿；<br>
+沒有種下的，還要去收
+
+
+[Luke 路加 19:21 (ESV/CUV)](# "ref")
 [Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
@@ -406,7 +426,10 @@ You knew that I was a **severe** man, <br>
 **taking** what I did not deposit and <br>
 **reaping** what I did not sow? 
 
-[Luke 19:22 (ESV)](# "ref")
+你既知道我是嚴厲的人，<br>
+沒有放下的，還要去拿，沒有種下的，還要去收，
+
+[Luke 路加 19:22 (ESV/CUV)](# "ref")
 
 >>>
 + In fact, the master was **not** an austere or unreasonable man:
@@ -417,12 +440,14 @@ You knew that I was a **severe** man, <br>
 ---
 <!-- .slide: <%= bg("unsplash-lZ_4nPFKcV8-money_leaf.jpg") %> -->
 Why then did you not <br>
-put my money in the **bank**,
-
+put my money in the **bank**,<br>
 and at my coming I might have <br>
 collected it with **interest**?’ 
 
-[Luke 19:23 (ESV)](# "ref")
+為甚麼不把我的銀子交給銀行，<br>
+等我來的時候，連本帶利都可以要回來呢？
+
+[Luke 路加 19:23 (ESV/CUV)](# "ref")
 [Micheile Henderson](https://unsplash.com/photos/lZ_4nPFKcV8 "caption")
 
 >>>
@@ -439,21 +464,27 @@ collected it with **interest**?’
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 And he said to those who stood by, <br>
 ‘**Take** the mina from him, and <br>
-give it to the one who has the **ten** minas.’ 
-
+give it to the one who has the **ten** minas.’ <br>
 And they said to him, ‘Lord, he has ten minas!’ 
 
-[Luke 19:24-26 (ESV) (p.1/2)](# "ref")
+就對旁邊站著的人說：<br>
+奪過他這一錠來，給那有十錠的。<br>
+他們說：主阿，他已經有十錠了。
+
+[Luke 路加 19:24-26 (ESV/CUV) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 ‘I tell you that to everyone who **has**, <br>
-**more** will be given, 
-
+**more** will be given, <br>
 but from the one who **has not**, <br>
 even what he has will be **taken away**. 
 
-[Luke 19:24-26 (ESV) (p.2/2)](# "ref")
+主人說：我告訴你們，<br>
+凡有的，還要加給他；<br>
+沒有的，連他所有的也要奪過來
+
+[Luke 路加 19:24-26 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + Notice that 1st servant had **10**, not 11:
@@ -474,14 +505,26 @@ even what he has will be **taken away**.
 Therefore, my beloved, <br>
 as you have always **obeyed**, ...
 
+我親愛的弟兄，你們既是常順服的，...
+
 **work out** your own salvation <br>
 with fear and trembling, 
 
+就當恐懼戰兢做成你們得救的工夫。
+
+[Philippians 腓立比 2:12,13 (ESV/CUV) (p.1/2)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 for it is **God** who works in you, <br>
 both to **will** and to **work** for his good pleasure
 
-[Philippians 2:12,13 (ESV)](# "ref")
-[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
+因為你們立志行事<br>
+都是神在你們心裡運行，<br>
+為要成就他的美意。
+
+[Philippians 腓立比 2:12,13 (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
 + **Paradox** of righteousness: 
@@ -529,7 +572,10 @@ But his citizens **hated** him and <br>
 sent a delegation after him, saying, <br>
 ‘We do **not** want this man to **reign** over us.’ 
 
-[Luke 19:14 (ESV)](# "ref")
+他本國的人卻恨他，打發使者隨後去，說：<br>
+我們不願意這個人作我們的王
+
+[Luke 路加 19:14 (ESV/CUV)](# "ref")
 [Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
@@ -545,7 +591,10 @@ But as for these **enemies** of mine, <br>
 who did **not want** me to reign over them, <br>
 bring them here and **slaughter** them before me.’
 
-[Luke 19:27 (ESV)](# "ref")
+至於我那些仇敵，不要我作他們王的，<br>
+把他們拉來，在我面前殺了罷！
+
+[Luke 路加 19:27 (ESV/CUV)](# "ref")
 [&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 
 >>>
@@ -561,12 +610,16 @@ bring them here and **slaughter** them before me.’
 ---
 <!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
 Behold, I am **coming soon**, bringing my **recompense** with me,<br>
-to repay each one for what he has **done**.
-
+to repay each one for what he has **done**.<br>
 I am the **Alpha** and the **Omega**, <br>
 the first and the last, the beginning and the end.
 
-[Revelation 22:12-13 (ESV)](# "ref")
+看哪，我必快來！賞罰在我，<br>
+要照各人所行的報應他。
+我是阿拉法，我是俄梅戛；<br>
+我是首先的，我是末後的；我是初，我是終。
+
+[Revelation 啟示錄 22:12-13 (ESV/CUV)](# "ref")
 [Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 
 >>>
