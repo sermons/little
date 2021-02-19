@@ -33,7 +33,7 @@
 
 ---
 <!-- .slide: style="font-size: 0.9rem" -->
-## Final Journey to Jeru [(Lk 18-19)](# "ref") <br> 耶穌最後的耶路撒冷之旅 
+## Final Journey to Jeru. [(Lk 18-19)](# "ref") <br> 耶穌最後的耶路撒冷之旅 
 <!-- .element: style="font-size: 1.2rem" -->
 
 + Prayer of *Tax Collector* 稅吏的禱告 [(18:9-14)](# "ref")
@@ -711,7 +711,7 @@ the first and the last, the beginning and the end.
 
 ---
 <!-- .slide: data-background="white" -->
-## Am I **unwilling** for Christ to **rule** over me?
+## Am I **unwilling** for Christ <br> to **rule** over me?
 ## <span class="zh">我是否不願意讓 <br> 基督管轄我?</span>
 
 >>>
