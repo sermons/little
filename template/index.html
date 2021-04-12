@@ -55,6 +55,12 @@
     <script src="<%= js.src %>" integrity="<%= js.integrity %>" crossorigin="anonymous"></script>
     <% } ) %>
 
+    <% pkg.config.plugins.forEach( function(js) { %>
+    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
+    <% } ) %>
+
+    <script src="lib/socket.io/socket.io.min.js"></script>
+
     <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
         SVG: { scale: 77 },
@@ -63,6 +69,9 @@
     </script>
 
     <script>
+      mpkey = Reveal().getQueryHash().s || null
+      mpdep = '<%= pkg.config.multiplex.url %>' + (mpkey ? 'master' : 'client') + '.js'
+
       Reveal.initialize({
         display: 'flex',
         maxScale: 4.0,
@@ -82,22 +91,19 @@
         multiplex: {
           url: '<%= pkg.config.multiplex.url %>',
           id : '<%= pkg.config.multiplex.id  %>',
-          secret: Reveal.getQueryHash().s || null
+          secret: mpkey
         },
 
+        plugins: [ RevealMarkdown, RevealHighlight, RevealMath, RevealNotes ],
+
         dependencies: [
-          { src: Reveal.getQueryHash().s ? '<%= pkg.config.reveal %>/plugin/multiplex/master.min.js' : '<%= pkg.config.reveal %>/plugin/multiplex/client.min.js', async:true }
-        ]
+	  (mpkey == 'none') ? null : { src: mpdep, async:true }
+	].filter(v => v)
       });
     </script>
 
-    <% pkg.config.plugins.forEach( function(js) { %>
-    <script src="<%= pkg.config.reveal + "/plugin/" + js %>" crossorigin="anonymous"></script>
-    <% } ) %>
-    <script src="js/notes.js"></script>
-
     <script>
-      hljs.initHighlightingOnLoad();
+      hljs.highlightAll();
     </script>
 
   </body>
